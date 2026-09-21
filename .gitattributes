@@ -1,0 +1,1 @@
+raw_data/nse_bhavcopy/**/*.csv filter=lfs diff=lfs merge=lfs -text
